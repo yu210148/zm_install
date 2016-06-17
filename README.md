@@ -8,7 +8,7 @@ Usage:
 Install Ubuntu 16.04 then run ./zm_install.sh and follow the prompts
 to set a DB password. Then enter the same db password to configure
 the ZM database when prompted. Once done point a browser to 
-http://<address or hostname of server>/zm to add your cameras.
+http://address or hostname of server/zm to add your cameras.
 
 --
 kev.
